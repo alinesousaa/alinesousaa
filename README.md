@@ -4,6 +4,6 @@
 
 I write articles at [DevTo](https://dev.to/alinesousaa);
 
-- ⚙️ I use daily: `.js`, `.react`, `.html`, `.css`, `.figma`
+- ⚙️ I use daily: `.py`, `.django`, `.mysql`
 - 🌍 I'm mostly active within the **Bichinhos da TI community** and **He4rt Developers**
-- 💬 `ping` me about **react**, **frontend**, **javascript**, **development**
+- 💬 `ping` me about **programming**, **backend**, **python**, **development**
