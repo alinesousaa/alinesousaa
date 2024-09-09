@@ -4,6 +4,6 @@
 
 I write articles at [DevTo](https://dev.to/alinesousaa);
 
-- ⚙️ I use daily: `.python`, `.sql`, `.django`, `.miro`
+- ⚙️ I use daily: `.php`, `.sql`, `.laravel`, `.miro`
 - 🌍 I'm mostly active within the **Bichinhos da TI community** and **He4rt Developers**
-- 💬 `ping` me about **programming**, **backend development**, **python**
+- 💬 `ping` me about **programming**, **backend development**, **php**
