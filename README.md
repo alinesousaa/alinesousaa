@@ -1,6 +1,6 @@
 ### Hey, welcome! 👋
 
-#### A Mobile Developer by day ☼ and a "Dev to Community Articles" Contributor by night ☾
+#### A Backend Developer by day ☼ and a "Dev to Community Articles" Contributor by night ☾
 
 I write articles at [DevTo](https://dev.to/alinesousaa);
 
