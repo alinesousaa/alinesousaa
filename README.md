@@ -4,6 +4,6 @@
 
 I write articles at [DevTo](https://dev.to/alinesousaa);
 
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.reactnative`
-- 🌍 I'm mostly active within the **Meteor Lounge** and **He4rt Developers**
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.reactnative`, `.react`
+- 🌍 I'm mostly active within the **Meteor Lounge** and **Study with Soo**
 - 💬 `ping` me about **Programming**, **Frontend Development**, **Javascript**
